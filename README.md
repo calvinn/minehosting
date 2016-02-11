@@ -1,0 +1,3 @@
+# minehosting
+
+Website van MineHosting
